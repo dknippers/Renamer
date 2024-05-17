@@ -8,6 +8,7 @@ internal class Program
         ".vs",
         "bin",
         "obj",
+        "node_modules",
     };
 
     public static void Main(string[] args)
